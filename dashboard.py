@@ -8,7 +8,7 @@ from sklearn.preprocessing import StandardScaler
 
 # Load and prepare
 # iris = load_iris()
-path = "../Project_/Iris.csv"
+path = r"C:\Users\Admin\Desktop\Desmondonam\Omdena\Nepal_CBWP\Week 5\Project_\Iris.csv"
 df = pd.read_csv(path)
 # df = pd.DataFrame(data = iris.data, columns= iris.feature_names)
 # df["Species"] = iris.target
