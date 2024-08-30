@@ -1,6 +1,7 @@
 # Import the neccesary modules
 import streamlit as st
 import pandas as pd
+import sklearn
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.preprocessing import StandardScaler
 
